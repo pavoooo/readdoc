@@ -72,3 +72,7 @@ Content Cell  | Content Cell
 | Pipe      |    $1 |
                 
 ----
+
+```math
+E = m c^2
+```
